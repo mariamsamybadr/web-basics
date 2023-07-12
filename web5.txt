@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <style>
+       hr{
+           border-top: 1px solid lightgrey;
+       }
+       div{
+           margin: 5px;
+           padding: 20px 0px 20px 0px;
+           width: 500;
+
+       }
+       button{
+           
+        
+       }
+    </style>
+
+    </head>
+    <body>
+        <hr>
+        <div>
+            <img src="a.png"style="float: left;">
+        <center>
+          <p style="color: rgb(183, 183, 211);">  General forms</p>
+            <P>Build,design,and translate signup forms response emails</P>
+            <button type="button">select</button>
+        </center>
+        </div>
+        <hr>
+        <div>
+            <img src="b.png" style="float: left;">
+            <center>
+            <p style="color: rgb(183, 183, 211); text-align:center;" >  Embeded forms</p>
+            Generate HTML code to embed in your site or blog to collect signup
+            <button type="button" >select</button>
+        </center>
+         </div>
+         <hr>
+         <div>
+            <img src="c.png" style="float: left;">
+        <center>
+            <p style="color: rgb(183, 183, 211);"> subscriber popup</p>
+            Design a popup signup form that can br embeded on any site
+            <button type="button">select</button>
+        </center>
+       
+       
+        </div>
+
+
+
+
+
+
+    </body>
+</html>
